@@ -26,6 +26,7 @@
 
 .App-link {
   color: #61dafb;
+  text-decoration: none;
 }
 
 @keyframes App-logo-spin {
@@ -53,4 +54,11 @@ ul {
 
 li {
   list-style-type: none;
+}
+
+.message {
+  background-color:#61DAFB;
+  color:white;
+  border: solid 1px #61DAFB;
+  text-align: center;
 }
